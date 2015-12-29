@@ -1,0 +1,94 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+h1{
+	font:bold 30px cursive;
+}
+p{
+	font:15px cursive;
+}
+h2{
+	font:bold 20px cursive;
+}
+header, footer, aside, hgroup, article, nav, section{
+	display:block;
+}
+body{
+	text-align:center;
+}
+.main_body{
+	border:;
+	width:1200px;
+	margin:20px auto;
+	text-align:left;
+}
+.top_header{
+	border:;
+	background:#424242;
+	color:#B71C1C;
+	padding:20px;
+}
+.navigation{
+	background:;
+	color:white;
+	border-bottom:2px solid #B71C1C;
+}
+.navigation  li{
+	display:inline-block;
+	list-style:none;
+	padding:10px;
+	font: bold 14px cursive;
+}
+.man_section{
+	float:left;
+	width:700px;
+	margin:30px; /* 810px  390px left*/
+}
+.aside_news{
+	float:left;
+	width:300px;
+	margin:30px 0px;
+	padding:30px;
+	background:;
+	border-left:1px dashed red;
+}
+.the_footer{
+	clear:both;
+	text-align:center;
+	padding:20px;
+	border-top:2px solid #B71C1C;
+	background:#90A4AE;
+}
+article{
+	background:;
+	border:;
+	padding:20px;
+	margin-bottom:15px;
+}
+li a:hover{
+	background:red;
+	color:white;
+	padding:10px;
+	
+}
+li{
+	list-style:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
